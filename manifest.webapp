@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "name": "FXOS panorama viewer",
+  "description": "A simple, open-source viewer app that displays a panoramic image sliding it when the phone compass sensor detect user movement.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icons/icon-128.png",
+    "512": "/img/icons/icon-512.png"
+  },
+  "developer": {
+    "name": "caos30",
+    "url": "https://github.com/caos30"
+  },
+  "type": "privileged",
+  "default_locale": "en",
+  "orientation": "landscape-secondary"
+}
